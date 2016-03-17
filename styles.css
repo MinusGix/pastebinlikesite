@@ -1,0 +1,51 @@
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
+#titlebar {
+    width: 100%;
+    height: 10%;
+    background-color: lightblue;
+    margin-bottom: 4%;
+}
+#titlebar p {
+    display: inline;
+    font-size: 2em;
+    padding-left: 5%;
+    cursor: pointer;
+}
+
+#index {
+    width: 15%;
+    background-color: lightgray;
+    height: 50%;
+    position: absolute;
+    margin-left: 2.5%;
+    overflow-y: auto;
+}
+.index-link {
+    text-align: center;
+
+}
+
+
+#textbox {
+    min-width: 60%;
+    min-height: 75%;
+    margin-left: 20%;
+}
+
+.nona {
+    color: black;
+    text-decoration: none;
+}
+
+#submit-button {
+    background-color: lightblue;
+    color: black;
+    position: absolute;
+    margin-top: 36%;
+    margin-left: -60.25%;
+    width: 60%;
+}

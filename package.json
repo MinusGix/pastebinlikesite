@@ -1,0 +1,9 @@
+{
+  "name": "Template",
+  "version": "0.0.1",
+  "description": "A template app made for myself.",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.10.2"
+  }
+}
